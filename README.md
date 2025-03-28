@@ -1,1 +1,2 @@
-# L-10_Linux_Boots_Run_Levels_Services
+# L-10 Linux Boots Run Levels Services
+Bu repository'nin amacı, Linux işletim sisteminin önyükleme sürecini açıklamak, Linux'ta kullanılan run level'ları, bunların nerede bulunduklarını ve ne işe yaradıklarını, aynı zamanda servis kavramını, servisleri inceleme ve servis loglarına nasıl bakılacağı gibi konuları ele almaktadır.  [Linux Boots Run Levels Services](Linux_Boots_Run_Levels_Services.md) dosyasına bakın.
